@@ -21,8 +21,10 @@ A Machine Learning project to predict stock prices using the Long-Short Term Mem
     ```
 
 ### Installing library for prediction (Keras, TensorFlow)
+    ```
     pip install keras
     pip3 install keras
+    ```
 
     pip install tensorflow
     pip3 install tensorflow
