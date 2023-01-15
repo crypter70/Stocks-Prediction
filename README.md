@@ -9,22 +9,16 @@ A Machine Learning project to predict stock prices using the Long-Short Term Mem
 
 ## Installation
 ### Installing library for crawling (yfinance)
-    ```
     pip install yfinance
     pip3 install yfinance
-    ```
 
 ### Installing library for reading data (DataReader)
-    ```
     pip install pandas-datareader
     pip3 install pandas-datareader
-    ```
 
 ### Installing library for prediction (Keras, TensorFlow)
-    ```
     pip install keras
     pip3 install keras
-    ```
 
     pip install tensorflow
     pip3 install tensorflow
