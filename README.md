@@ -21,19 +21,13 @@ A Machine Learning project to predict stock prices using the Long-Short Term Mem
     ```
 
 ### Installing library for prediction (Keras, TensorFlow)
-    ```
     pip install keras
     pip3 install keras
-    ```
 
-    ```
     pip install tensorflow
     pip3 install tensorflow
-    ```
 
     if you found issue with kernel after installing tensorflow using pip, then you can install using conda as follows below
-    ```
     conda install tensorflow
-    ```
 
 
