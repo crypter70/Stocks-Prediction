@@ -1,7 +1,7 @@
-# Stocks-Prediction
+# Stocks Analysis and Forecasting
  
 ## Overview
-A Machine Learning project to predict stock prices using the Long-Short Term Memory (LSTM) algorithm. The predicted stocks consist of 4 stock codes on the Indonesia Stock Exchange (IDX), 2 stocks each in the banking sector, namely BBCA and BBNI, the mining sector, namely ADRO and INDY.
+A Machine Learning project to forecast stock prices using the Long-Short Term Memory (LSTM) algorithm. The forecasted stocks consist of 4 stock codes on the Indonesia Stock Exchange (IDX), 2 stocks each in the banking sector, namely BBCA and BBNI, the mining sector, namely ADRO and INDY.
 
 ## Prequiste
 - Anaconda 3
@@ -12,11 +12,7 @@ A Machine Learning project to predict stock prices using the Long-Short Term Mem
     pip install yfinance
     pip3 install yfinance
 
-### Installing library for reading data (DataReader)
-    pip install pandas-datareader
-    pip3 install pandas-datareader
-
-### Installing library for prediction (Keras, TensorFlow)
+### Installing library for forecasting (Keras and TensorFlow)
 #### Keras
     pip install keras
     pip3 install keras
@@ -25,9 +21,10 @@ A Machine Learning project to predict stock prices using the Long-Short Term Mem
     pip install tensorflow
     pip3 install tensorflow
 
-### TensorFlow Conda
-if you found issue with kernel after installing tensorflow using pip, then you can install using conda as follows below
+#### TensorFlow using Conda
+If you found issue with kernel after installing tensorflow using pip, then you can install using conda as follows below(creating a new environment is recommended). 
 
     conda install tensorflow
+
 
 
