@@ -8,7 +8,7 @@ A Machine Learning project to predict stock prices using the Long-Short Term Mem
 - Python 3
 
 ## Installation
-### Installing library for crawling (yfinance)
+### Installing library for crawling data (yfinance)
     pip install yfinance
     pip3 install yfinance
 
@@ -17,13 +17,17 @@ A Machine Learning project to predict stock prices using the Long-Short Term Mem
     pip3 install pandas-datareader
 
 ### Installing library for prediction (Keras, TensorFlow)
+#### Keras
     pip install keras
     pip3 install keras
 
+#### TensorFlow
     pip install tensorflow
     pip3 install tensorflow
 
-    if you found issue with kernel after installing tensorflow using pip, then you can install using conda as follows below
+### TensorFlow Conda
+if you found issue with kernel after installing tensorflow using pip, then you can install using conda as follows below
+
     conda install tensorflow
 
 
