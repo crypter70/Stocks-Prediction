@@ -26,5 +26,17 @@ If you found issue with kernel after installing tensorflow using pip, then you c
 
     conda install tensorflow
 
+## Result
+- BBCA
+RMSE = 234.38500392654765
+
+- BBNI
+RSME = 366.55772131988164
+
+- ADRO
+RMSE = 110.05313726697713
+
+- INDY
+RMSE = 90.1968382033163
 
 
